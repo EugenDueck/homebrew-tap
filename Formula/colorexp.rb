@@ -1,9 +1,9 @@
 class Colorexp < Formula
   desc "colorexp: Command line multi-color regexp highlighter"
   homepage "https://github.com/EugenDueck/colorexp"
-  url "https://github.com/EugenDueck/colorexp/releases/download/v2.1/colorexp-darwin-amd64-2.1-e78c316.tar.gz"
-  sha256 "782988dee8ca9e9ce86ed62b74b06085b7320bf5305ef526ce204994c8d34ff4"
-  version "2.1"
+  url "https://github.com/EugenDueck/colorexp/releases/download/v2.2/colorexp-darwin-amd64-2.2-2e608f9.tar.gz"
+  sha256 "fc1d1dec2df80f5170337163db073ec49b85ac4f101aeee2f95f6a6210b56ce3"
+  version "2.2"
 
   def install
     bin.install "colorexp"
